@@ -12,7 +12,7 @@ describe("Order factory unit test", () => {
           name: "Product 1",
           productId: uuid(),
           quantity: 1,
-          price: 100,
+          price: 100
         },
       ],
     };
